@@ -10,3 +10,5 @@ console.log('Order total is: ', total);
 
 console.log('i', ' like', ' coding');
 //seems that you can replace + with , when concantenating strings...
+
+//test
